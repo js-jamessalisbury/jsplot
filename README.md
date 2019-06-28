@@ -1,6 +1,6 @@
-## BBPLOT
+## JSPLOT
 
-This repo contains the functions of the `bbplot` package, which once installed locally, provides helpful functions for creating and exporting  graphics made in ggplot in the style used by the BBC News data team.
+This repo contains the functions of the `jsplot` package, which once installed locally, provides helpful functions for creating and exporting  graphics made in ggplot in the style of Sainsbury's Argos.
 
 ![Example of graphics created using the bbplot package](chart_examples/bbplot_example_plots.png)
 
